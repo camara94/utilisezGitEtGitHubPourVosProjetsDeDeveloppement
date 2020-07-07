@@ -19,3 +19,16 @@
 * le premier réflexe est de regarder la documentation. Il y a souvent tout un tas d’informations sur la manière de collaborer au mieux au projet ;
 * dans un second temps, vous devrez rapatrier le dépôt distant sur votre dépôt local. Sur votre dépôt local, vous pourrez réaliser vos modifications ;
 * une fois toutes les modifications réalisées, vous pourrez envoyer vos modifications en ajoutant des messages de description. Il faut que la personne gérant le dépôt distant comprenne les modifications que vous avez faites. En allant de nouveau sur le dépôt distant, vous pourrez maintenant soumettre vos modifications.  
+
+## Pourquoi utiliser un dépôt ?
+Avec les dépôts, vous vous éviterez de longues heures de perte de travail, de recherche des dernières modifications et de galère de travail d’équipe !
+
+## Utilité des dépôts
+* vous travaillez à plusieurs ;
+* vous souhaitez collaborer à des projets open source ;
+* vous souhaitez conserver un historique de votre projet ;
+* vous voulez pouvoir retrouver par qui a été faite chaque modification ;
+* vous voulez savoir pourquoi chaque modification a eu lieu.
+
+## Les outils existants ?
+Il existe plusieurs outils intéressants (**GitHub**, **GitLab**, **Bitbucket**, **SourceForge**)
