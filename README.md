@@ -32,3 +32,8 @@ Avec les dépôts, vous vous éviterez de longues heures de perte de travail, de
 
 ## Les outils existants ?
 Il existe plusieurs outils intéressants (**GitHub**, **GitLab**, **Bitbucket**, **SourceForge**)
+
+## La Gestuion des Version en Git
+* le répertoire de travail (**working directory/WD**) ;
+* l’index, ou **stage** (nous préférerons le second terme) ;
+* le dépôt local (**Git directory/repository**).
