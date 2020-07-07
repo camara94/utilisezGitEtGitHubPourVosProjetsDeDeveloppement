@@ -14,3 +14,8 @@
 
 ## Différence entre Git et Github
 **Git** est l'outil qui nous permet de créer un dépôt local et de gérer les versions de nos fichiers, alors que **GitHub** est un service en ligne qui va héberger notre dépôt, qui sera du coup distant (puisqu'il ne sera pas sur notre machine).
+
+## Comment collaborer sur un projet open source
+* le premier réflexe est de regarder la documentation. Il y a souvent tout un tas d’informations sur la manière de collaborer au mieux au projet ;
+* dans un second temps, vous devrez rapatrier le dépôt distant sur votre dépôt local. Sur votre dépôt local, vous pourrez réaliser vos modifications ;
+* une fois toutes les modifications réalisées, vous pourrez envoyer vos modifications en ajoutant des messages de description. Il faut que la personne gérant le dépôt distant comprenne les modifications que vous avez faites. En allant de nouveau sur le dépôt distant, vous pourrez maintenant soumettre vos modifications.  
