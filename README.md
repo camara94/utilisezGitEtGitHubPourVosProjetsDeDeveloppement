@@ -32,3 +32,8 @@ Avec les dépôts, vous vous éviterez de longues heures de perte de travail, de
 
 ## Les outils existants ?
 Il existe plusieurs outils intéressants (**GitHub**, **GitLab**, **Bitbucket**, **SourceForge**)
+
+## L’arbre Git et sa structure
+* le **tree** ou l'**arbre Git** qui est une forme de répertoire. Il va référencer une liste de trees et de blobs (sous-répertoires et fichiers) ;
+* le **commit** qui va pointer vers un arbre spécifique et le marquer, afin de représenter son état à un instant donné ;
+* Le **blob** qui représente en général un fichier (Binary Large Object).
