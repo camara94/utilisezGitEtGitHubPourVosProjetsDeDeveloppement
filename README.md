@@ -45,3 +45,13 @@ Il existe plusieurs outils intéressants (**GitHub**, **GitLab**, **Bitbucket**,
 * il est open source et collaboratif ;
 * c’est gratuit ;
 * c’est aussi une solution pour les entreprises.
+
+## Jenkins
+### Définition
+**Jenkins** est l'un des premiers serveurs d'intégration continue open source, et reste l'option la plus couramment utilisée aujourd'hui.
+### Avantages
+* logiciel gratuit ;
+* plus de 1 000 plugins sont disponibles ;
+* vous pouvez créer un plugin si celui que vous désirez n'existe pas ;
+* vous pouvez également partager ce plugin ;
+* logiciel facile à installer.
