@@ -37,3 +37,11 @@ Il existe plusieurs outils intéressants (**GitHub**, **GitLab**, **Bitbucket**,
 * le **tree** ou l'**arbre Git** qui est une forme de répertoire. Il va référencer une liste de trees et de blobs (sous-répertoires et fichiers) ;
 * le **commit** qui va pointer vers un arbre spécifique et le marquer, afin de représenter son état à un instant donné ;
 * Le **blob** qui représente en général un fichier (Binary Large Object).
+
+## GitLab
+* il permet d’héberger les projets web et la gestion de versions des codes sources ;
+* il permet la gestion de tout le processus de développement ;
+* il permet une collaboration simple ;
+* il est open source et collaboratif ;
+* c’est gratuit ;
+* c’est aussi une solution pour les entreprises.
